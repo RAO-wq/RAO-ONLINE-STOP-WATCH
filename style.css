@@ -1,0 +1,41 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    
+}
+
+h1{
+    background-color: bisque;
+    color: black;
+   display: inline-block ; 
+    width: 100px;
+    
+}
+#rao{
+    width: auto;
+    font-weight: 700;
+    font-size: 30px;
+  
+
+}
+#raoG{
+    width: auto;
+    font-weight: 700;
+    font-size: 30px;
+    color: chartreuse;
+    background-color: purple;
+    font-style: italic;
+
+
+}
+.one{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.container{
+    background-color: blueviolet;
+    width: 500px;
+    height: 270px;
+   
+}
